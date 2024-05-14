@@ -1,0 +1,14 @@
+{
+  "name": "corso-node",
+  "version": "1.0.0",
+  "description": "First Node Project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Marion"
+  ],
+  "author": "Simone Marion",
+  "license": "ISC"
+}
